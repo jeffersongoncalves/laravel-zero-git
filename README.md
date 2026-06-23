@@ -1,3 +1,9 @@
+<div class="filament-hidden">
+
+![laravel-zero-git](https://raw.githubusercontent.com/jeffersongoncalves/laravel-zero-git/main/art/jeffersongoncalves-laravel-zero-git.png)
+
+</div>
+
 # laravel-zero-git
 
 Detect the current repository from its git remote. This package parses SSH and
