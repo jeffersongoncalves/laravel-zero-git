@@ -1,0 +1,7 @@
+<?php
+
+namespace JeffersonGoncalves\LaravelZero\Git\Tests;
+
+use PHPUnit\Framework\TestCase as BaseTestCase;
+
+abstract class TestCase extends BaseTestCase {}
