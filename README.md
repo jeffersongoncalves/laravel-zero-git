@@ -6,6 +6,8 @@
 
 # laravel-zero-git
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jeffersongoncalves)
+
 Detect the current repository from its git remote. This package parses SSH and
 HTTPS remote URLs into `host` / `owner` / `repo`, builds a stable slug, and can
 read the remote of a working directory directly from git.
